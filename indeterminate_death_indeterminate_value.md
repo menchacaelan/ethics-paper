@@ -1,4 +1,5 @@
-Indeterminate value death and ceasing to exist
+# Indeterminate value, death and ceasing to exist
+
 IN THIS PAPER I WOULD LIKE TO SUGGEST THAT EPICURUS WAS RIGHT IN WRITING THAT DEATH IS NOT BAD FOR THOSE WHO DIE. HOWEVER, GIVEN PAGE LIMIT CONSTRAINTS THIS PAPER MUST DEAL WITH THE FUNDAMENTAL QUESTION OF WHAT IS MEANT BY CONTINUING TO EXIST AND TO DIE, AND MORE SPECIFICALLY WHAT IS MOST FUNDAMENTALLY PRESERVED THROUGH TIME WHEN WE SAY THAT A PERSON PERSISTS THROUGH TIME. SINCE, IN A PAPER "DEATH AND THE VALUE OF LIFE," JEFF MCMAHAN WRITES AGAINST EPICURUS—BUT ALSO BECAUSE I TAKE IT THAT MANY PEOPLE FIND HIS POSITION QUITE PLAUSIBLE--I WILL BEGIN WITH MCMAHAN'S POSITION ON PERSONAL IDENTITY (MADE EXPLICIT IN HIS BOOK "THE ETHICS OF KILLING"), OFFER CRITICISMS OF HIS POSITION, PROPOSE A VIEW I WILL CALL THE 'UNKNOWN MARK OF DEATH UNKNOWN VALUE VIEW' AND FINALLY SUGGEST SOME OF THE POSSIBLE IMPLICATIONS OF MY VIEW.
 
 I would like to begin by stating the view that I would eventually like to reach. 
@@ -47,7 +48,7 @@ McMahan's necessary and sufficient conditions I find mysterious. The reason I fi
 > 2: if I am right about point 1 and 1.2, it implies a very different interpretation of McMahan's text as well as about the ethical considerations we ought to have concerning accepting Epicurus's view, killing, bringing into existence and the badness of death. 
 Under point 2, only Epicurus's view and the badness of death I will be able to speak about. I will spend some time belaboring point 1 because it matters so much what the correct view on these continuities is.
 
-Point 1.: The distinction between organizational or structural continuity and functional continuity is not intuitive—it is controversial. 
+## Point 1.: The distinction between organizational or structural continuity and functional continuity is not intuitive—it is controversial. 
 
 Using the terminology, McMahan says that the important difference is that structural continuity means whatever physical stuff preserves the content of mental states. It is questionable whether particular physical stuff is necessary to preserve content. To leave room for the possibility that it isn't necessary I will consider two position on the nature of content in the mind: natural and symbolic content. 
 For simplicity these kinds of content are just the content that is coupled to the psychophysical identity theory (natural content) and the classical computational architecture or what is called connectionism (symbolic content) respectively . 
@@ -98,7 +99,7 @@ Assuming that a classical computational architecture underlies the causal struct
 
 More broadly and directly applicable to the functional/structural distinction we may ask again do our psychological capacities and their contents come apart as is being claimed? Or are they too intimately tied together to come apart? I do not know the answer to this question but my goal is only to make the answer unintuitive—a very strong argument must be made to get a clear answer either way .
 
-Point 1.2: The functional/physical continuity distinction is intuitive.
+### Point 1.2: The functional/physical continuity distinction is intuitive.
 
 Surprise, this is in fact the point of functionalism: as a move away from the psychophysical identity theory. 
 > Hilary Putnam's 1967 paper "Psychological Predicates," as Jaegwon Kim points out,"quickly brought about the decline and fall of type physicalism, in particular, the psychoneural identity theory…ushered in functionalism, which has been a highly influential—perhaps the dominant—position on the nature of mind…[and]…third it was instrumental in installing antireductionism as the orthodoxy on the nature of psychological properties."
@@ -115,7 +116,7 @@ If one believes in the multiple realizability thesis very strongly then one may 
 
 The intuition that the mind is multiply realizable, or that what constitutes the physical base of the mind is not essential is already a very intuitive position to many people so I have not spent much time focused on this point.
 
-Point 2: Implications.
+## Point 2: Implications.
 
 The final point to be made here is what this implies about personal identity. 
 > To recap, McMahan says "I believe that there need be only enough physical and functional continuity to preserve certain basic psychological capacities, particularly the capacity for consciousness." 
