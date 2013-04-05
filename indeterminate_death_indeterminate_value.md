@@ -3,11 +3,11 @@ IN THIS PAPER I WOULD LIKE TO SUGGEST THAT EPICURUS WAS RIGHT IN WRITING THAT DE
 
 I would like to begin by stating the view that I would eventually like to reach. 
 
-	Epicurus view: death is not bad for those who die. 
+> Epicurus view: death is not bad for those who die. 
 
 In Death and the value  of life Jeff McMahan explains that the view presupposes at least
 
-	the existence requirement: a person can be the subject of some misfortune only if he exists at the time the misfortune occurs. 
+> the existence requirement: a person can be the subject of some misfortune only if he exists at the time the misfortune occurs. 
 
 He thinks to be able to deny this claim with the Man (call him S) on an Island consideration. 
 
