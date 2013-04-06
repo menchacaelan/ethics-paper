@@ -41,8 +41,8 @@ By reintroducing the terminology McMahan had introduced on the previous page of 
 This is what these continuities mean:
 
 > 1.	Physical continuity: the continued existence over time of the realizer, the supervenient base or what grounds mental states and/or consciousness, i.e., what we have good reason to believe is the human brain in the actual world. McMahan says explicitly "the continued existence of the same constituent matter or the gradual, incremental replacement of the constituent matter over time [of the mind]. "
-2.	Functional continuity: the continued existence over time of, McMahan writes, "the brain's basic psychological capacities."
-3.	Organizational or Structural continuity: the continued existence over time and the preservation of, McMahan writes, "those configurations of tissue that underlie the connections and continuities among the contents of an individual's mental life over time."
+> 2.	Functional continuity: the continued existence over time of, McMahan writes, "the brain's basic psychological capacities."
+> 3.	Organizational or Structural continuity: the continued existence over time and the preservation of, McMahan writes, "those configurations of tissue that underlie the connections and continuities among the contents of an individual's mental life over time."
 
 McMahan's necessary and sufficient conditions I find mysterious. The reason I find them mysterious is because 
 > 1: I do not think that the functional/organizational or structural continuity distinction is compelling; 
@@ -76,7 +76,9 @@ On this view Jeff's comment does not make much sense. He writes that structural 
 
 > A consequence of this is that it is just an unexplainable fact that basic psychological capacities or content are not preserved when someone enters a telatrasporter . 
 
-Further, under the psychophysical identity theory it does not make sense to speak of either symbols as the bearers of content nor as connectionist networks as the bearers of content since both of these forms of content come from the architectures being an abstract representation of the underlying flow of information necessary to perform certain psychological acts—rather, in a non-information theoretic sense or in a non-abstract sense, physical phenomena like neuronal spikes (as individuals or groups) are unexplainably identifiable with meaningful mental states. In short the psychophysical identity theory remains silent on McMahan's Functional/Structural or Organizational continuity distinction. So we must turn to functionalism for an account of the meaning of this distinction.
+Further, under the psychophysical identity theory it does not make sense to speak of either symbols as the bearers of content nor as connectionist networks as the bearers of content since both of these forms of content come from the architectures being an abstract representation of the underlying flow of information necessary to perform certain psychological acts—rather, in a non-information theoretic sense or in a non-abstract sense, physical phenomena like neuronal spikes (as individuals or groups) are unexplainably identifiable with meaningful mental states. In short the psychophysical identity theory remains silent on McMahan's Functional/Structural or Organizational continuity distinction. 
+
+So we must turn to functionalism for an account of the meaning of this distinction.
 
 > Meaning on the functional theory is interpreted as being paired to the representational features of the symbols acceptable to the function. It is these symbols that mean or represent what they represent the world. 
 
@@ -133,7 +135,7 @@ The final point to be made here is what this implies about personal identity.
 > To recap, McMahan says "I believe that there need be only enough physical and functional continuity to preserve certain basic psychological capacities, particularly the capacity for consciousness." 
 
 This position can be made more explicit using the three kinds of continuity outlined at the beginning of this essay. McMahan believes that physical continuity and minimum functional continuity is required to preserve identity, but that structural continuity (the preservation of content) is not necessary. 
-> In point 1. I argue that it is not intuitive that functional and structural continuity come apart, 
+> In point 1. I argue that it is not intuitive that functional and structural continuity come apart,
 > then in point 1.2 I suggest that physical and functional continuity, many people have been compelled to believe, do come apart. 
 > These intuitions can be added together to state that it is more intuitive to suppose physical and functional continuity come apart than that functional and structural continuity come apart. And that it is more intuitive to therefore think that persons continue to exist if enough of the causal basis for their psychological capacities continue to exist even if this doesn't entail that the physical constitution of this structure remains numerically identical. 
 
@@ -168,6 +170,7 @@ In McMahan's terms this would amount to structural continuity without physical c
 
 As I said in the beginning of this paper, I am unable to draw out an argument from this view to Epicurus view. I would however like to suggest a few implications of this view if it is correct. 
 > For one it should be notice that there is a response to McMahan's existence requirement counter-example. If you would recall he offers S "dying" prior and after their life's work being destroyed as making all the difference in whether S suffers a misfortune—and suggests that this is absurd. It can be plainly seen now that this presupposes a certain meaning of dying which, though intuitive, may not be what actual death consists in. 
+
 Death, under the view I am proposing forms a different foundation for rational egoistic-concern: one ought to be concerned about the epistemic limitation we have for evaluating death under this view—it is a great unknown, but my view proposes that their ought to be some impersonal reasons, above all, for believing that this existence, this life, is very good, and that change is bad.
 
 Further there must be some positive reason for desiring the preservation of something good when one does not know the value of the alternative; that is, some reasons must be provided for not considering known unknowns. 
