@@ -22,7 +22,9 @@ The two views that McMahan introduces are
 
 The latter accounts for the idea that if someone ceases to have conscious experiences then the cause of this cessation is bad. The former may be part of Epicurus world-view, but I don't think it is necessary to get the view I identify with. 
 The incorporation of conscious experience I find absolutely necessary and fundamental to identity and death. 
+
 > In short my view is that we cannot evaluate the value of death to the dead—we may only assign a value of death with respect to those left living. 
+
 One may intuit the cessation of mental states upon the cessation of the functioning of the body, but that requires commitments to some solution to the mind body problem. This leads to the topic of this paper: a look into views on the mind body problem. 
 Though I should like to bring this paper to a close by concluding that Epicurus is correct I am constrained by space. 
 
@@ -34,18 +36,19 @@ McMahan writes, when speaking about his Embodied mind account:
 
 By reintroducing the terminology McMahan had introduced on the previous page of his book, I can paraphrase his view on personal identity as well as make it more precise: 
 
-> for a person to continue to exist it is both necessary and sufficient that there is enough physical continuity to realize the capacity for consciousness with minimum functional continuity. Organizational or structural continuity over time is not necessary.Enough functionality to preserve capacity is enough—the preservation of mental content is not necessary. This is what these continuities mean:
+> for a person to continue to exist it is both necessary and sufficient that there is enough physical continuity to realize the capacity for consciousness with minimum functional continuity. Organizational or structural continuity over time is not necessary.Enough functionality to preserve capacity is enough—the preservation of mental content is not necessary. 
 
-1.	Physical continuity: the continued existence over time of the realizer, the supervenient base or what grounds mental states and/or consciousness, i.e., what we have good reason to believe is the human brain in the actual world. McMahan says explicitly "the continued existence of the same constituent matter or the gradual, incremental replacement of the constituent matter over time [of the mind]. "
+This is what these continuities mean:
 
+> 1.	Physical continuity: the continued existence over time of the realizer, the supervenient base or what grounds mental states and/or consciousness, i.e., what we have good reason to believe is the human brain in the actual world. McMahan says explicitly "the continued existence of the same constituent matter or the gradual, incremental replacement of the constituent matter over time [of the mind]. "
 2.	Functional continuity: the continued existence over time of, McMahan writes, "the brain's basic psychological capacities."
-
 3.	Organizational or Structural continuity: the continued existence over time and the preservation of, McMahan writes, "those configurations of tissue that underlie the connections and continuities among the contents of an individual's mental life over time."
 
 McMahan's necessary and sufficient conditions I find mysterious. The reason I find them mysterious is because 
 > 1: I do not think that the functional/organizational or structural continuity distinction is compelling; 
-> 1.2: while the functional/physical continuity distinction is compelling and 
-> 2: if I am right about point 1 and 1.2, it implies a very different interpretation of McMahan's text as well as about the ethical considerations we ought to have concerning accepting Epicurus's view, killing, bringing into existence and the badness of death. 
+1.2: while the functional/physical continuity distinction is compelling and 
+2: if I am right about point 1 and 1.2, it implies a very different interpretation of McMahan's text as well as about the ethical considerations we ought to have concerning accepting Epicurus's view, killing, bringing into existence and the badness of death. 
+
 Under point 2, only Epicurus's view and the badness of death I will be able to speak about. I will spend some time belaboring point 1 because it matters so much what the correct view on these continuities is.
 
 ## Point 1.: The distinction between organizational or structural continuity and functional continuity is not intuitive—it is controversial. 
@@ -68,8 +71,11 @@ We may define the identity of a function in the following way: function A is ide
 How is meaning integrated into these theories and what does this mean for the functional/structural distinction? 
 
 > On the psychophysical identity theory meaning is paired to physical facts in a brute way. 
+
 On this view Jeff's comment does not make much sense. He writes that structural continuity is "those configurations of tissue that underlie the connections and continuities among the contents of an individual's mental life over time. " But the psychophysical identity theory does not care about configurations of tissue, all it cares about is the tissue; it does not care about the connections and continuities (of content)—it is just a useful consequence that these connections and continuities are preserved if sameness of brain is sameness of mind (that is, if the psychophysical identity theory is true). Further it seems intuitively compelling to many that it is a contingent physical fact that aspects of structure are preserved when physical structures are preserved in the actual world. But the point is that meaning is a brute fact tacked onto specific physical groups  on this theory (and we will return to the physical/functional difference under point 2 to consider why it may be a contingent fact). 
+
 > A consequence of this is that it is just an unexplainable fact that basic psychological capacities or content are not preserved when someone enters a telatrasporter . 
+
 Further, under the psychophysical identity theory it does not make sense to speak of either symbols as the bearers of content nor as connectionist networks as the bearers of content since both of these forms of content come from the architectures being an abstract representation of the underlying flow of information necessary to perform certain psychological acts—rather, in a non-information theoretic sense or in a non-abstract sense, physical phenomena like neuronal spikes (as individuals or groups) are unexplainably identifiable with meaningful mental states. In short the psychophysical identity theory remains silent on McMahan's Functional/Structural or Organizational continuity distinction. So we must turn to functionalism for an account of the meaning of this distinction.
 
 > Meaning on the functional theory is interpreted as being paired to the representational features of the symbols acceptable to the function. It is these symbols that mean or represent what they represent the world. 
@@ -91,10 +97,12 @@ Simply put, for psychological capacities are functions of the mind and if they d
 > I believe it is possible to make the problem mathematically precise: one can ask that if some homomorphism relates two mental functions are the meanings of these two input symbols identical? 
 
 Here is an example: 
+
 > suppose that there's a mathematical addition function somewhere in a mind. 
 > Now suppose that the causal structure responsible for realizing whatever content is in A. 
 > Now suppose that this function evolves into another causal structure B and B is capable of playing the functional role of multiplication in the very same human. 
 > Further, suppose that B's causal structure is not identical to A's. 
+
 Assuming that a classical computational architecture underlies the causal structure responsible for A's being the addition function and B's being the multiplication function, what is being asked is whether the ordered pair "<1,1>" (an abstract symbol) as input to A carries the same meaning as the ordered pair "<1,1>" as input to B or if they mean different things. 
 
 More broadly and directly applicable to the functional/structural distinction we may ask again do our psychological capacities and their contents come apart as is being claimed? Or are they too intimately tied together to come apart? I do not know the answer to this question but my goal is only to make the answer unintuitive—a very strong argument must be made to get a clear answer either way .
@@ -103,11 +111,14 @@ More broadly and directly applicable to the functional/structural distinction we
 
 Surprise, this is in fact the point of functionalism: as a move away from the psychophysical identity theory. 
 > Hilary Putnam's 1967 paper "Psychological Predicates," as Jaegwon Kim points out,"quickly brought about the decline and fall of type physicalism, in particular, the psychoneural identity theory…ushered in functionalism, which has been a highly influential—perhaps the dominant—position on the nature of mind…[and]…third it was instrumental in installing antireductionism as the orthodoxy on the nature of psychological properties."
+
 The reason for this is due to the multiple realizability hypothesis. 
 The core of this hypothesis rests on the rather mundane intuition that two humans with non-identical brains may yet have the same  mental states, or that dog and man can experience the same hunger or belief 'that there is food'. 
-> Another way of putting this is by saying that there is nothing special about a human brain and the first person experience of having a certain mental state. 
+> Another way of putting this is by saying that there is nothing special about a human brain and the first person experience of having a certain mental state.
+
 However, to maintain the psychophysical identity thesis a slightly broader type physicalism may be held (though it is more radical to have this intuition): all biological brains have type identical mental states. 
 > But the multiple realizability thesis may re-emerge here (though many people may reasonably not accept this): the intuition is that there is nothing special about biological brains and type identical mental states. 
+
 One who believes it is conceivable that entities without biological brains may assert: it is carbonist to assume that silicon based physical organisms cannot have type identical mental states to biological organisms, humans or otherwise . 
 
 What multiple realizability does in the context of McMahan's distinctions necessary to get personal identity as he is suggesting it, is motivate one to think that functional continuity (the continued existence of the brains basic psychological capacities) and physical continuity (the continued existence over time of the realizer of mental states, or in McMahan's words "the continued existence of the same constituent matter or the gradual, incremental replacement of the constituent matter over time [of the mind],") are not both required for continuity of a person. 
@@ -120,16 +131,19 @@ The intuition that the mind is multiply realizable, or that what constitutes the
 
 The final point to be made here is what this implies about personal identity. 
 > To recap, McMahan says "I believe that there need be only enough physical and functional continuity to preserve certain basic psychological capacities, particularly the capacity for consciousness." 
+
 This position can be made more explicit using the three kinds of continuity outlined at the beginning of this essay. McMahan believes that physical continuity and minimum functional continuity is required to preserve identity, but that structural continuity (the preservation of content) is not necessary. 
 > In point 1. I argue that it is not intuitive that functional and structural continuity come apart, 
 > then in point 1.2 I suggest that physical and functional continuity, many people have been compelled to believe, do come apart. 
 > These intuitions can be added together to state that it is more intuitive to suppose physical and functional continuity come apart than that functional and structural continuity come apart. And that it is more intuitive to therefore think that persons continue to exist if enough of the causal basis for their psychological capacities continue to exist even if this doesn't entail that the physical constitution of this structure remains numerically identical. 
+
 In short people can survive teletransportation.
 
 There is more to say on this point however, and on the most intuitively compelling part of the above quote, which will get us from the above implication to the endorsement of Epicurus's view: that death is not bad for those who die. 
 I, like McMahan, am interested, particularly, in the preservation of the capacity for consciousness. What has not yet been made explicit is one implication of functional and structural continuity coming apart. 
 
 > In its most radical form these continuities coming apart would imply the possibility of a system with causal structures that remain continuous but who's content varyied wildly, i.e., this would be the position that there is no correlation between phenomenal experience (a first person account of the content) and (it is assumed for humans) the causal structure of the brain. 
+
 This is where cases like inverted spectrum arguments can be made. 
 
 This is quite extreme, for it would imply that neuroscience can teach us nothing about first person phenomenal experience, but it is at least conceivable: substance dualists would have no problem accepting this possibility. A less stark way of proposing this idea is with the help of multiple realizability once again. An argument would go something like this:
@@ -141,13 +155,15 @@ This is quite extreme, for it would imply that neuroscience can teach us nothing
 This is remarkable for it seems to imply that, under the right analysis any causal system has a mental life. Premise 1 of this argument needs to be argued for, the claim to possibility in particular. In premise 2 it needs to be argued that some organized dust is in fact a system. That or an argument needs to me made against the identity of the causal system mattering for the identity of content across systems. Premise 3 just follows from 1 and 2. Some have gone so far as to think no causal system is necessary for the continuity of content: they believe in the possibility of minds without any physical basis.
 
 What would constitute the greatest evidence for the possibility in 1 and as an argument of the second type I suggested for motivating premise 2? 
-> The answer: phenomenal experience after death. What I want to suggest here is that we do not have epistemic access to evaluating whether those who die continue to have conscious experience after physical discontinuity and thus we cannot assume that a person dies at the point where we may no longer asses, access or measure their psychological capabilities. Structural and functional continuity must come apart for this to be true or minds must be identifiable in atypical causal structures like dust. The following criteria of death conforms well with this desire to identify persons with their first person conscious experience: 
+> The answer: phenomenal experience after death. 
+
+What I want to suggest here is that we do not have epistemic access to evaluating whether those who die continue to have conscious experience after physical discontinuity and thus we cannot assume that a person dies at the point where we may no longer asses, access or measure their psychological capabilities. Structural and functional continuity must come apart for this to be true or minds must be identifiable in atypical causal structures like dust. The following criteria of death conforms well with this desire to identify persons with their first person conscious experience: 
 
 The psychological criteria of death from the first person: A person dies the moment it is true that at all time subsequent to that time the person will not have any mental states .
 
 If it is admissible that the first person mental states that once were correlated with a person's physical constitution persist after the causal structure is radically different (even dust), then death is only as bad for persons as that destruction is painful, and thus only so much as pain is bad. However I only wish to leave open the possibility that a person's mental states may persist through the radical change of their psychological capacities. 
-In McMahan's terms this would amount to structural continuity without physical continuity. It may also imply no functional continuity—these are seperable. By leaving this question open I may finally propose my view on what this means for how we ought to value death:
 
+In McMahan's terms this would amount to structural continuity without physical continuity. It may also imply no functional continuity—these are seperable. By leaving this question open I may finally propose my view on what this means for how we ought to value death:
 > The unknown mark of death unknown value view: we lack epistemic access to the content of the mental life of bodies which no longer function. We do not know if their conscious experience is better or worse than ours. We do not even known if they are lexically comparable. The value of biological death to those who die, from the first person, is unknown.
 
 As I said in the beginning of this paper, I am unable to draw out an argument from this view to Epicurus view. I would however like to suggest a few implications of this view if it is correct. 
