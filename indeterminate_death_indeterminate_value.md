@@ -135,8 +135,11 @@ The final point to be made here is what this implies about personal identity.
 > To recap, McMahan says "I believe that there need be only enough physical and functional continuity to preserve certain basic psychological capacities, particularly the capacity for consciousness." 
 
 This position can be made more explicit using the three kinds of continuity outlined at the beginning of this essay. McMahan believes that physical continuity and minimum functional continuity is required to preserve identity, but that structural continuity (the preservation of content) is not necessary. 
+
 > In point 1. I argue that it is not intuitive that functional and structural continuity come apart,
+
 > then in point 1.2 I suggest that physical and functional continuity, many people have been compelled to believe, do come apart. 
+
 > These intuitions can be added together to state that it is more intuitive to suppose physical and functional continuity come apart than that functional and structural continuity come apart. And that it is more intuitive to therefore think that persons continue to exist if enough of the causal basis for their psychological capacities continue to exist even if this doesn't entail that the physical constitution of this structure remains numerically identical. 
 
 In short people can survive teletransportation.
@@ -151,7 +154,9 @@ This is where cases like inverted spectrum arguments can be made.
 This is quite extreme, for it would imply that neuroscience can teach us nothing about first person phenomenal experience, but it is at least conceivable: substance dualists would have no problem accepting this possibility. A less stark way of proposing this idea is with the help of multiple realizability once again. An argument would go something like this:
 
 > 1) It is possible that non-biological systems are capable of having type-identical content as part of their mental lives, though their psychological capabilities are different from ours.
+
 > 2) Organizations of dust are non-biological systems.
+
 > 3) Organizations of dust are capable of having type-identical content as part of their mental lives.
 
 This is remarkable for it seems to imply that, under the right analysis any causal system has a mental life. Premise 1 of this argument needs to be argued for, the claim to possibility in particular. In premise 2 it needs to be argued that some organized dust is in fact a system. That or an argument needs to me made against the identity of the causal system mattering for the identity of content across systems. Premise 3 just follows from 1 and 2. Some have gone so far as to think no causal system is necessary for the continuity of content: they believe in the possibility of minds without any physical basis.
